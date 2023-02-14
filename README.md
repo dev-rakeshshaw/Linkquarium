@@ -3,7 +3,8 @@
 <img src="./images/logo.png" width="350">
 
 
-> A Streamlit app that you can build for free to store all your personal links that is similar in functionality to that of [Linktr.ee](https://linktr.ee/).
+> A Streamlit app that you can build for free to store all your personal links that is similar in functionality to that of [Linktr.ee](https://linktr.ee/).  Inspired by [Dataprofessor](https://github.com/dataprofessor/links)
+
 
 
 # Demo app
