@@ -9,7 +9,7 @@ load_css()
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
 
-st.header('Rakesh Shaw, Open-Source Enthusiast')
+st.header('Rakesh Shaw, Open-Source Enthusiast.')
 
 st.info('👋Upcoming Dev👋, \n Success requires persistent practice, guided by patience.')
 
