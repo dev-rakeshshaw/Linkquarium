@@ -9,7 +9,7 @@ st.set_page_config(
 
 load_css()
 
-# st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)](https://gitHub.com/dataprofessor/links)")
+st.write("[![Star](https://img.shields.io/github/stars/dev-rakeshshaw/links.svg?logo=github&style=social)](https://github.com/dev-rakeshshaw/Linkquarium)")
 
 col1, col2, col3 = st.columns(3)
 col1.image(Image.open('./images/logo1.png'), use_column_width='always')
