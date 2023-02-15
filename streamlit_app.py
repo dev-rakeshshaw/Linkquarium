@@ -17,8 +17,7 @@ col2.image(Image.open('./images/dp.png'))
 
 
 st.header('Rakesh Shaw, Open-Source Enthusiast.')
-st.caption('Success requires persistent practice, guided by patience.')
-col2.info('👋Upcoming Dev👋')
+st.info('  👋Upcoming Dev👋 | Success requires persistent practice, guided by patience.')
 
 icon_size = 20
 
