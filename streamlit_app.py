@@ -12,11 +12,13 @@ load_css()
 # st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)](https://gitHub.com/dataprofessor/links)")
 
 col1, col2, col3 = st.columns(3)
+col1.image(Image.open('./images/logo1.png'), use_column_width='always')
 col2.image(Image.open('./images/dp.png'))
 
-st.header('Rakesh Shaw, Open-Source Enthusiast.')
 
-st.info('👋Upcoming Dev👋, \n Success requires persistent practice, guided by patience.')
+st.header('Rakesh Shaw, Open-Source Enthusiast.')
+st.caption('Success requires persistent practice, guided by patience.')
+col2.info('👋Upcoming Dev👋')
 
 icon_size = 20
 
